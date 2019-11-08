@@ -1,0 +1,7 @@
+name: Webform to Paypal
+type: module
+description: 'Adds extra fields and settings to webforms to integrate with Paypal.'
+package: Webform
+core: 8.x
+dependencies:
+  - 'webform:webform'

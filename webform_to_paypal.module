@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * @file
+ * Adds extra fields and settings to webforms to integrate with Paypal.
+ */
